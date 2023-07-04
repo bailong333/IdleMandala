@@ -1,0 +1,12 @@
+{
+  "name": "Idle Mandala",
+  "short_name": "Idle Mandala",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
